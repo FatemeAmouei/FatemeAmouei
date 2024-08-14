@@ -39,8 +39,6 @@
     &nbsp;
     <a href="https://github.com/FatemeAmouei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32"     height="32" /></a>
     &nbsp;
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
-    &nbsp;
-    <a href="https://t.me/Fatemeamouie/" target="_blank" rel="noreferrer"><img src="C:\Users\ASUS\Downloads\icons8-telegram-color\icons8-telegram-96.svg" width="32" height="32" /></a>
+    <a href="https://t.me/Fatemeamouie/" target="_blank" rel="noreferrer"><img src="C:\Users\ASUS\Downloads\icons8-telegram-color\icons8-telegram.svg" width="32" height="32" /></a>
     &nbsp;
 </p>
