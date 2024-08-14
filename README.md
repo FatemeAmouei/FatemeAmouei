@@ -26,7 +26,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br />
-<h2>📞 &nbsp; Connct Me </h2>
+<h2>📞 &nbsp; Contact Me </h2>
 
 <p align="left">
     <a href="https://www.instagram.com/fatemeamouie/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg"       width="32" height="32" /></a>
