@@ -1,13 +1,9 @@
-## Hi there 👋
-
-<h2>I'm Fateme Amouei </h2>
-
-<h3>About Me</h3>
+## Hi there 👋  I'm Fateme Amouei
 
 - 💼 &nbsp; Front End Developer
 - 🌍 &nbsp; based in Karaj (Iran)
-- 🌱 &nbsp; always learning
 - 🤝 &nbsp; open to collaborating on React based projects
+- 🌱 &nbsp; always learning
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
@@ -29,9 +25,7 @@
   ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=563D7C)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 <br />
-
 <h2>📞 &nbsp; Connct Me </h2>
 
 <p align="left">
