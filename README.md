@@ -38,8 +38,6 @@
     &nbsp;
     <a href="https://github.com/FatemeAmouei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32"     height="32" /></a>
     &nbsp;
-      <a href="https://gitlab.com/FatemeAmouei" target="_blank" rel="noreferrer"><img src="https://github.com/FatemeAmouei/FatemeAmouei/blob/main/icons8-gitlab.svg" width="32" height="32" /></a>
-    &nbsp;
     <a href="https://t.me/Fatemeamouie/" target="_blank" rel="noreferrer"><img src="https://github.com/FatemeAmouei/FatemeAmouei/blob/main/icons8-telegram-96.svg" width="32" height="32" /></a>
     &nbsp;
     <a href="mailto:amoueifateme@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/FatemeAmouei/FatemeAmouei/blob/main/icons8-gmail.svg" width="32" height="32" /></a>
