@@ -19,11 +19,11 @@
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass&logoColor=563D7C)
   ![Less](https://img.shields.io/badge/-less-333333?style=flat&logo=less&logoColor=563D7C)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Wordress](https://img.shields.io/badge/-wordpress-333333?style=flat&logo=wordpress)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
