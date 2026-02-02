@@ -44,7 +44,7 @@
     &nbsp;
     <a href="https://t.me/Fatemeamouie/" target="_blank" rel="noreferrer"><img src="https://github.com/FatemeAmouei/FatemeAmouei/blob/main/icons8-telegram-96.svg" width="32" height="32" /></a>
     &nbsp;
-    <a href="mailto:amoueifateme@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/FatemeAmouei/FatemeAmouei/blob/main/icons8-gmail.svg" width="32" height="32" /></a>
+    <a href="mailto:amoueifateme@yahoo.com" target="_blank" rel="noreferrer"><img src="https://github.com/FatemeAmouei/FatemeAmouei/blob/main/icons8-gmail.svg" width="32" height="32" /></a>
       &nbsp;
     <a href="https://www.linkedin.com/in/fateme-amouie-aa1029324/?trk=public-profile-join-page" target="_blank" rel="noreferrer"><img src="https://github.com/FatemeAmouei/FatemeAmouei/blob/main/icons8-linkedin-48.png" width="32" height="32" /></a>
 </p>
